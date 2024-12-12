@@ -18,4 +18,4 @@ My GitHub page is https://github.com/graceecontreras
 
 * Lab 10
 
-    Lab 19 was another favorite of mine because it really helped understand range based loops as well as vectors. Before doing this lab, I really struggled with vectors, but for some reason when this lab had 2D vectors, the concept of vectors finally clicked for me. Learning how to go through a vector's components one by one with a range based loop helped me understand how to use range based loops and also helped my understanding of vectors.
+    Lab 10 was another favorite of mine because it really helped understand range based loops as well as vectors. Before doing this lab, I really struggled with vectors, but for some reason when this lab had 2D vectors, the concept of vectors finally clicked for me. Learning how to go through a vector's components one by one with a range based loop helped me understand how to use range based loops and also helped my understanding of vectors.
