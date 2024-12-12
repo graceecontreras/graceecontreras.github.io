@@ -1,10 +1,10 @@
 # Grace Contreras's Portfolio
 
-Welcome to my home page! My name is Grace Contreras and I am a computer science major currently at CSUF. I plan on graduating in 2028.
+Welcome to my home page! My name is Grace Contreras and I am a computer science major currently at [Cal State Fullerton](http://www.fullerton.edu/). I plan on graduating in 2028.
 
 ## Computer Science 120L Projects
 
-My GitHub page is https://github.com/graceecontreras
+My GitHub page is https://github.com/graceecontreras.
 
 ### CPSC 120 Favorite Labs
 
